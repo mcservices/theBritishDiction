@@ -1509,7 +1509,7 @@
     "core.login.mobileservicesnotenabled": "Mobile access is not enabled on your site. Please contact your site administrator if you think it should be enabled.",
     "core.login.mustconfirm": "You need to confirm your account",
     "core.login.newaccount": "New account",
-    "core.login.newsitedescription": "Please enter the URL of your TheBritishDiction site. Note that it might not be configured to work with this app.",
+    "core.login.newsitedescription": "Please enter the URL of your TheBritishDiction site. Note that it might not be configured to work with this app.<b>thebritishdiction.com/lmsportal/</b>",
     "core.login.notloggedin": "You need to be logged in.",
     "core.login.password": "Password",
     "core.login.passwordforgotten": "Forgotten password",
