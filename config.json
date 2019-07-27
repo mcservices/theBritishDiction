@@ -58,7 +58,7 @@
     "wsextservice": "local_mobile",
     "demo_sites": {},
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://thebritishdiction.com/lmsportal/",
+    "siteurl": "https:\/\/thebritishdiction.com\/lmsportal",
     "sitename": "ThwBritishDiction",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
