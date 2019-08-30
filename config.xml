@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.mcservices.thebritishdiction"
-        versionCode = "1000"
-        android-versionCode="1000"
-        version   = "1.0.0">
+        versionCode = "1001"
+        android-versionCode="1001"
+        version   = "1.0.1">
     <name>TheBritishDiction</name>
 
     <description>
